@@ -1,0 +1,20 @@
+
+
+
+lis1 = [ 1, 2, 3, 4 ]
+
+
+lis2 = lis1
+
+
+print ("The new list created is : " + str(lis2))
+
+
+lis2.append(5)
+
+
+
+print ("The new list after adding new element : \
+" + str(lis2))
+print ("The old list after adding new element to new list : \
+" + str(lis1))
